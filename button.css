@@ -1,0 +1,8 @@
+.btn-green{
+	background-color: rgb(78, 148, 79) ;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Merienda', cursive;  
+}
